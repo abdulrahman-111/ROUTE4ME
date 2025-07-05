@@ -1,6 +1,5 @@
 # Route4Me - Delivery Route Optimization System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![C++](https://img.shields.io/badge/Language-C++-blue.svg)](https://isocpp.org/)
 
 ## Overview
@@ -139,9 +138,6 @@ Please ensure your code follows the project's coding style and includes appropri
 - Developed as part of the Data Structures and Algorithms course (CSE 123).
 - **Instructor**: Dr. Amr El-Masry
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
