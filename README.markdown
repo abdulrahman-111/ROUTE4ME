@@ -5,7 +5,7 @@
 
 ## Overview
 
-**Route4Me** is a C++-based application designed to optimize package delivery routes across multiple zones, including a warehouse. Developed as a project for the Digital Systems Design course (ECE 115), it implements graph algorithms to compute:
+**Route4Me** is a C++-based application designed to optimize package delivery routes across multiple zones, including a warehouse. Developed as a project for the Data Structures and Algorithms course (CSE 123), it implements graph algorithms to compute:
 - **Minimum Spanning Tree (MST)** using Prim's Algorithm for cost-efficient network design.
 - **Shortest Paths** using Dijkstra's Algorithm for the fastest delivery routes from any specified zone.
 
@@ -135,10 +135,9 @@ Please ensure your code follows the project's coding style and includes appropri
 
 ## Author
 
-- **Abdulrahman Gomaa** (ID: 23-101279)
-- Developed as part of the Digital Systems Design course (ECE 115).
-- **Instructor**: Dr. Hany M. Zamil
-- **Teaching Assistant**: Eng. Amr Al-Iraqi
+- **Abdulrahman Gomaa** 
+- Developed as part of the Data Structures and Algorithms course (CSE 123).
+- **Instructor**: Dr. Amr El-Masry
 
 ## License
 
@@ -146,7 +145,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Thanks to Dr. Hany M. Zamil and Eng. Amr Al-Iraqi for their guidance.
+- Thanks to Dr. Amr El Masri  for their guidance.
 - The interactive menu and input handling were developed with assistance from AI tools, while core algorithms and logic were implemented independently.
 - Future work includes adding support for weighted directed graphs and visualizing the graph using a GUI.
 
